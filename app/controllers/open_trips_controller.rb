@@ -1,0 +1,2 @@
+class OpenTripsController < ApplicationController
+end
